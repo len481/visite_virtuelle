@@ -1,0 +1,17 @@
+#: locale=fr
+
+## Media
+
+### Title
+panorama_1FB7261C_371F_EB4E_41C8_671B3B9A3EA7.label = pano001 2
+panorama_12AB2D43_371F_F93A_41B1_B9FF609FC913.label = visuel_2
+panorama_12B7B238_371F_EB56_41B9_1BC65CFA748B.label = visuel_3
+panorama_12B77762_371F_E9FA_41AB_11CAED0E5647.label = visuel_4
+panorama_12B67C7A_371F_DFCA_4187_F51071D2EBA9.label = visuel_5
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
